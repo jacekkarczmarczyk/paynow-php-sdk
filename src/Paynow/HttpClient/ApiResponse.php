@@ -2,7 +2,7 @@
 
 namespace Paynow\HttpClient;
 
-use GuzzleHttp\Message\ResponseInterface;
+use Psr\Http\Message\ResponseInterface;
 
 class ApiResponse
 {
